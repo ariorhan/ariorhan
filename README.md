@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **JavaScript.**
 
 - 📫 How to reach me **orhnari@gmail.com**
+- 📫 My Linkedin profile **www.linkedin.com/in/orhanari1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
