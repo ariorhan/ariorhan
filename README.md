@@ -1,9 +1,9 @@
-##<h1 align="center">Hi 👋, I'm Orhan</h1>
+##<h1 align="center">Hi, I'm Orhan</h1>
 <h3 align="center">A passionate frontend developer from London</h3>
 
 - 🔭 I’m currently working on **My Portfolio.**
 
-- 🌱 I’m currently learning **JavaScript.**
+- 🌱 I’m currently learning **HTML | CSS | Saas| BootStrap | Tailwind | JavaScript.**
 
 - 📫 How to reach me **orhnari@gmail.com**
 - 📫 My Linkedin profile **www.linkedin.com/in/orhanari1**
