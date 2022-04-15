@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML | CSS | Saas| BootStrap | Tailwind | JavaScript.**
 
-- 📫 How to reach me **orhnari@gmail.com**
+- 📫 How to reach me **orhnari@hotmail.com**
 - 📫 My Linkedin profile **www.linkedin.com/in/orhanari1**
 
 <h3 align="left">Connect with me:</h3>
