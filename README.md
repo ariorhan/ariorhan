@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Personal Portfolio.**
 
-- 🌱 I’m currently learning **HTML | CSS | Saas| BootStrap | Tailwind | JavaScript.**
+- 🌱 I’m currently learning **HTML | CSS | Saas| BootStrap | Tailwind | JavaScript.| React**
 
 - 📫 How to contact me **orhnari@gmail.com**
 - 📫 My Linkedin profile **www.linkedin.com/in/orhanari1**
