@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Recruitment Company POC Project** with a team.
 
-- 🌱 I’m currently learning **HTML | CSS | Saas| BootStrap | Tailwind | JavaScript.| React**
+- 🌱 I’m currently learning **HTML | CSS | Saas| BootStrap | Tailwind | JavaScript.| React |Style-Components | Material UI**
 
 - My Personal Portfolio **www.orhanari.com**
 -  📫 How to contact me **orhnari@gmail.com**
