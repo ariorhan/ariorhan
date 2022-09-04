@@ -1,7 +1,7 @@
 ##<h1 align="center">Hi, I'm Orhan</h1>
 <h3 align="center">A passionate Frontend Developer from London</h3>
 
-- 🔭 I’m currently working on **Recruitment Company POC Project** with a team.
+- 🔭 I’m currently working as an Intern Front-end Developer at Keypoint Solutions.
 
 - 🌱 I’m currently learning **HTML | CSS | Saas| BootStrap | Tailwind | JavaScript.| React |Style-Components | Material UI**
 
