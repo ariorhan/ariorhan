@@ -1,4 +1,4 @@
-##<h1 align="center">Hi, I'm Orhan</h1>
+##<h1 align="center">Hi, I am Orhan</h1>
 <h3 align="center">A passionate Frontend Developer from London</h3>
 
 - 🔭 I’m currently working as an Front-end Developer at Keypoint Solutions.
