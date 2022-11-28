@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as an Front-end Developer at Keypoint Solutions.
 
-- 🌱 I’m currently learning **HTML | CSS | Saas| BootStrap | Tailwind | JavaScript.| React |Style-Components | Material UI | Rest API | React-Query**
+- 🌱 I’m currently learning **HTML | CSS | Saas| BootStrap | Tailwind | JavaScript.| React |Style-Components | Material UI | Rest API | React-Query | Jira**
 
 - My Personal Portfolio **www.orhanari.com**
 -  📫 How to contact me **orhnari@gmail.com**
