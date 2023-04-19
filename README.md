@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML | CSS | Saas| BootStrap | Tailwind | JavaScript.| React |Style-Components | Material UI | Rest API | React-Query | Jira**
 
-- My Personal Portfolio **www.orhanari.me**
+- My Personal Portfolio **https://www.orhanari.me**
 -  📫 How to contact me **orhnari@gmail.com**
 - 📫 My Linkedin profile **www.linkedin.com/in/orhanari1**
 
