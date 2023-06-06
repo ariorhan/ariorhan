@@ -1,7 +1,7 @@
 ##<h1>Hi, I'm Orhan</h1>
-<h3>A passionate Frontend Developer from London</h3>
+<h3>A passionate Full Stack Developer from London</h3>
 
-- 🔭 I’m currently working as an Front-end Developer at Keypoint Solutions.
+- 🔭 I’m currently working as an Full Stack Developer at Keypoint Solutions.
 
 - 🌱 I’m currently learning **HTML | CSS | Saas| BootStrap | Tailwind | JavaScript.| React |Style-Components | Material UI | Rest API | React-Query | Jira**
 
