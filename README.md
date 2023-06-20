@@ -1,5 +1,5 @@
 ##<h1>Hi, I'm Orhan</h1>
-<h3>A passionate Full Stack Developer from London</h3>
+<h3>A passionate Full Stack Web Developer from London</h3>
 
 - 🔭 I’m currently working as an Full Stack Developer at Keypoint Solutions.
 
