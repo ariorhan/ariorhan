@@ -7,7 +7,7 @@
 
 - My Personal Portfolio **https://www.orhanari.me**
 -  📫 How to contact me **orhnari@gmail.com**
-- 📫 My Linkedin profile **www.linkedin.com/in/orhanari1**
+- 📫 My Linkedin profile **https://www.linkedin.com/in/orhanari1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
